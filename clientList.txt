@@ -1,0 +1,18 @@
+Official: nimal,nimal@gmail.com,ceo
+Official: kmal,nimal@gmail.com,ceo
+Office_friend: kamal,kamal@gmail.com,clerk,2000/09/23
+Personal: sunil,suni,sunil@gmail.com,2000/10/10
+Personal: minu,mmm,smanl@gmail.com,1998/08/15
+Personal: nethu,mmm,nethu@gmail.com,2000/02/23
+Personal: shashi,nish,shshi@gmail.com,2000/08/14
+Office_friend: nethuli,nethuli@gmail.com,ceo,1993/12/05
+Office_friend: cat,cat@gmail.com,ceo,2000/08/17
+Official: sadi,sadi@gmail.com,ceoOfficial: kaw,kaw@gmail.com,ceo
+Personal: amans,am,amm@gmail.com,2000/08/12
+Personal: w,q,q@gmail.com,1992/12/12
+Personal: anne,am,an@gmail.com,2000/08/17
+Official: tharuka,tha@gmail.com,clark
+Personal: sunimal,suni,sunimal@gmail.com,2000/10/10
+Official: Amal,amal@gmail.com,ceo
+Office_friend: nethuli,nethu@gmail.com,clark,2000/02/29
+Official: amal,amal@gmail.com,ceo
